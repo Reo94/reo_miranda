@@ -33,3 +33,4 @@ Keep attribution and license terms included with the resource.
 - Creates the temporary prop as a local mission entity and verifies it is attached to the player hand.
 - Cleans up the prop if attachment fails.
 - Discord Integration Test for REO Sentinel.
+- REO Sentinel v0.9.1 live event test.
