@@ -32,3 +32,4 @@ Keep attribution and license terms included with the resource.
 - Consumes ESC while the card is open so the GTA pause menu does not also open.
 - Creates the temporary prop as a local mission entity and verifies it is attached to the player hand.
 - Cleans up the prop if attachment fails.
+- Discord Integration Test for REO Sentinel.
